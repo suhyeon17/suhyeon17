@@ -6,9 +6,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=B0C0E6&height=300&section=header&text=😊Welcome😊&desc=HwangSuhyeon's%20Github&descSize=25&fontAlignY=40&descAlignY=60&fontSize=80&animation=twinkling&) 
-  
-  <br>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=B0C0E6&height=250&section=header&text=Welcome&desc=HwangSuhyeon's%20Github&descSize=20&fontAlignY=35&descAlignY=55&fontSize=80&animation=twinkling&fontColor=454055) 
   
   ## 👩‍💻 Who Am I 👩‍💻
 
