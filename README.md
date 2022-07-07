@@ -22,9 +22,14 @@
 
   ## ⚒️ Tech Stack ⚒️
 
-  <img src="https://img.shields.io/badge/Python-3776AB? style=plastic&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  
 
 </div>
 
