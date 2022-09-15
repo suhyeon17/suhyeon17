@@ -14,7 +14,7 @@
 
 * 😄 Hi! I'm Hwang Suhyeon
 * 💻 I'm currently working on Dongduk Women's University, Dept.Statistics and Information/Computer Science
-* 🌱 I'm currently learning Data Analysis, NLP, CV
+* 🌱 I'm currently learning Data Analysis, NLP, CV, MultiModal
 * 📫 How to reach me: hwangsu0107@naver.com
 <br>
 
