@@ -13,7 +13,7 @@
 </div>
 
 * 😄 Hi! I'm Hwang Suhyeon
-* 💻 I graduated Dongduk Women's University, Dept.Statistics and Information/Computer Science
+* 💻 I graduated from Dongduk Women's University, Dept.Statistics and Information/Computer Science
 * 🌱 I'm currently learning Data Analysis, NLP, CV, MultiModal
 * 📫 How to reach me: hwangsu0107@naver.com
 <br>
