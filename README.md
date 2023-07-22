@@ -34,9 +34,3 @@
 </div>
 
 <br>
-<div align="center">
-
-  ![suhyeon's github stats](https://github-readme-stats.vercel.app/api?username=suhyeon17&show_icons=true&theme=discord_old_blurple)
-
-</div>
-
