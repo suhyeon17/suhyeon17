@@ -14,7 +14,7 @@
 
 * 😄 Hi! I'm Hwang Suhyeon
 * 💻 I graduated from Dongduk Women's University, Dept.Statistics and Information/Computer Science
-* 🌱 I'm currently learning Data Analysis, NLP, CV, MultiModal
+* 🌱 I'm currently learning NLP, LLM, sLLM
 * 📫 How to reach me: hwangsu0107@naver.com
 <br>
 
